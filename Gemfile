@@ -53,3 +53,12 @@ gem 'simple_form'
 
 # Devise
 gem 'devise'
+
+# Validate_url
+gem "validate_url"
+
+# Nokogiri
+gem "nokogiri"
+
+# UTF-8 Utilities
+gem "utf8_utils"
